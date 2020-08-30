@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**aurimasniekis/aurimasniekis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <br>
+  <br>
+  <br>
+  <samp>Hello there. I'm <a href="https://aurimas.niekis.lt">Aurimas Niekis</a>.<br> I'm a Software / Electronics Engineer from 🇱🇹 Lithuania, living in 🇯🇵 Tokyo, Japan.</samp>
+  <br>
+  <br>
+  <samp>I'm author and creator at <a href="https://www.techprowd.com">@TechProwd</a></samp>
+  <br>
+  <br>
+  <samp>#php, #javascript, #node, #go, #crystal, #c, #cpp, #electronis, #cad</samp>
+  <br>
+  <br>
+  <br>
+  <samp><a href="https://twitter.com/aurimasniekis">#Twitter</a>, <a href="https://instagram.com/aurimasniekis">#Instagram</a>, <a href="https://facebook.com/aurimasniekis">#Facebook</a>, <a href="https://linkedin.com/in/aurimasniekis">#LinkedIn</a>, <a href="https://cv.aurimas.niekis.lt/">#CV</a></samp>
+</p>
