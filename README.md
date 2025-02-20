@@ -7,7 +7,7 @@
   <samp>I'm author and creator at <a href="https://www.techprowd.com">@TechProwd</a></samp>
   <br>
   <br>
-  <samp>#php, #javascript, #node, #go, #crystal, #c, #cpp, #electronics, #cad</samp>
+  <samp>#java, #php, #kotlin, #typescript, #node, #go, #crystal, #c, #cpp, #electronics, #cad</samp>
   <br>
   <br>
   <br>
